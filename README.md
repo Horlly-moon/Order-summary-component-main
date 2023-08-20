@@ -46,8 +46,8 @@ This is a Screenshot for each Active states
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/Horlly-moon/Order-summary-component-main)
+- Live Site URL: [live site URL here](https://horlly-moon.github.io/Order-summary-component-main/#)
 
 ### Built with
 
@@ -91,7 +91,7 @@ During the project i had little bit of a problem making the background responsiv
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Horlly-moon](https://horlly-moon.github.io/Order-summary-component-main/#)
+- Frontend Mentor - [@Horlly-moon](https://www.frontendmentor.io/profile/Horlly-moon)
+- Twitter - [@FaithTolu386571](https://www.twitter.com/FaithTolu386571)
 
